@@ -10,3 +10,5 @@ Tanto as formas de busca 1 e 2 possuem um parametro de horario limite do dia, se
 Formas de executar os métodos de teste.
 
 Botão direito Run As: Java Application
+
+Aplicação Criada com JDK 7
